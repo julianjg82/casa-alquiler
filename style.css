@@ -91,4 +91,14 @@ footer {
     width: 80%;
     font-size: 18px;
   }
+  .boton-booking {
+    display: inline-block;
+    background-color: #003580;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
 }
